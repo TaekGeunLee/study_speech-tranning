@@ -12,7 +12,7 @@
 
 # File List
 
-* [Front-End]()
-* [Javascript]()
-* [HTTP/Network basic]()
-* [NoSQL]()
+* [Front-End](https://github.com/TaekGeunLee/study_speech-tranning/tree/master/Front-End)
+* [Javascript](https://github.com/TaekGeunLee/study_speech-tranning/tree/master/Javascript)
+* [HTTP/Network basic](https://github.com/TaekGeunLee/study_speech-tranning/tree/master/HTTP)
+* [NoSQL](https://github.com/TaekGeunLee/study_speech-tranning/tree/master/NoSQL)
