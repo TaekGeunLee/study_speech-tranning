@@ -1,4 +1,6 @@
-# File List
+### 브라우저의 동작 원리
+* [Naver D2](https://d2.naver.com/helloworld/59361) : 브라우저는 어떻게 동작하는가?
+* [Poiemaweb](https://poiemaweb.com/js-browser) : 브라우저 동작 원리
+* [구글 개발자 센터](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/render-tree-construction?hl=ko) : Render-Tree Construction, Layout, and Paint
+* [medium.Uday Hiwarale](https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969) : How the browser renders a web page? — DOM, CSSOM, and Rendering?
 
-* [1](https://github.com/TaekGeunLee/study_speech-tranning/tree/master/Front-End/Reference/1) : 브라우저 렌더링(browser rendering)의 원리, 사용자에게 화면(프론트엔드 영역)이 보여지는 과정을 제시해라.
-* [2](https://github.com/TaekGeunLee/study_speech-tranning/tree/master/Front-End/Reference/2) : 객체 지향 프로그래밍(OOP)란 무엇인가?
